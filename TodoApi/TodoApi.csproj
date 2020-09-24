@@ -5,4 +5,7 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <Compile Remove="Controllers\EmptyInterface.cs" />
+  </ItemGroup>
 </Project>
